@@ -173,10 +173,10 @@ video {
 }
 #scroller h4 {
   display: inline-block;
-  font-size: 90px;
+  font-size: 7vw;
   font-weight: 900;
   font-family: sans-serif;
-  margin-right: 20px;
+  margin-right: 3vw;
   transition: all linear 0.4s;
   color: black;
   -webkit-text-stroke: 2px #96c11e;
@@ -198,17 +198,17 @@ video {
   height: 40vh;
   width: 100%;
   display: flex;
-  padding: 0 40px;
+  padding: 0 4vw;
   align-items: center;
   justify-content: space-around;
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-top: 7.5vw;
+  margin-bottom: 7.5vw;
   position: relative;
   z-index: 10;
 }
 #about-us img {
-  height: 125px;
-  width: 125px;
+  height: 10vw;
+  width: 10vw;
   border-radius: 7%;
   object-fit: cover;
 }
@@ -217,13 +217,13 @@ video {
   text-align: center;
 }
 #about-us-in h3 {
-  font-size: 37px;
+  font-size: 3vw;
   font-weight: 900;
-  margin-bottom: 20px;
+  margin-bottom: 2vw;
 }
 #about-us-in p {
-  font-size: 18px;
-  line-height: 35px;
+  font-size: 1.4vw;
+  line-height: 2.5vw;
 }
 
 #cards-container {
@@ -231,13 +231,13 @@ video {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 80px;
+  gap: 7vw;
   position: relative;
   z-index: 10;
   margin-bottom: 4%;
 }
 .card {
-  height: 90%;
+  height: 40vw;
   width: 25%;
   border-radius: 7%;
   background-size: cover;
@@ -268,22 +268,22 @@ video {
   height: 100%;
   width: 100%;
   background-color: #96c11e;
-  padding-top: 100px;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-top: 4.5vw;
+  padding-left: 3vw;
+  padding-right: 3vw;
   opacity: 0;
   transition: all ease 0.6s;
 }
 .overlay h4 {
   color: black;
-  font-size: 30px;
+  font-size: 2.5vw;
   font-weight: 850;
-  line-height: 35px;
-  margin-bottom: 20px;
+  line-height: 2.8vw;
+  margin-bottom: 2vw;
 }
 .overlay p {
   color: black;
-  line-height: 26px;
+  line-height: 2vw;
 }
 
 .card:hover .overlay{
