@@ -227,7 +227,7 @@ video {
 }
 
 #cards-container {
-  height: 100vh;
+  height: 45vw;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -249,7 +249,7 @@ video {
     padding: 10%;
     bottom: 0%;
     color: white;
-    font-size: xx-large;
+    font-size: 3vw;
     font-weight: 900;
     opacity: 1;
     position: absolute;
@@ -284,6 +284,7 @@ video {
 .overlay p {
   color: black;
   line-height: 2vw;
+  font-size: 1.2vw;
 }
 
 .card:hover .overlay{
