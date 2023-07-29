@@ -299,7 +299,7 @@ video {
 }
 
 #green-div {
-  height: 47vh;
+  height: 20vw;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -309,8 +309,8 @@ video {
 }
 #green-div h4 {
   width: 42%;
-  font-size: 23px;
-  line-height: 35px;
+  font-size: 1.8vw;
+  line-height: 2vw;
   font-weight: 850;
   color: black;
   text-align: center;
@@ -324,26 +324,26 @@ video {
   rotate: 180deg;
 }
 #page3 {
-  height: 100vh;
+  height: 40vw;
   width: 100%;
-  background-color: black;
+  /* background-color: red; */
   display: flex;
   align-items: center;
   position: relative;
   justify-content: center;
 }
 #page3 > p {
-  font-size: 23px;
+  font-size: 1.8vw;
   font-weight: 800;
   width: 60%;
   text-align: center;
   z-index: 10;
-  line-height: 40px;
+  line-height: 3vw;
 }
 #page3 img {
   position: absolute;
   z-index: 10;
-  height: 60px;
+  height: 4.5vw;
 }
 #page3 #colon1 {
   left: 10%;
@@ -354,13 +354,13 @@ video {
   bottom: 25%;
 }
 #page4 {
-  height: 50vh;
+  height: 23vw;
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
-  gap: 35px;
+  gap: 3vw;
 }
 .elem {
   height: 50%;
@@ -379,7 +379,7 @@ video {
   align-items: center;
   justify-content: center;
   transition: all ease 0.5s;
-  font-size: 25px;
+  font-size: 2vw;
   font-weight: 900;
   position: absolute;
   z-index: 10;
@@ -399,7 +399,7 @@ video {
   scale: 1;
 }
 #page4 h1 {
-  font-size: 65px;
+  font-size: 5vw;
   position: absolute;
   top: 2%;
   font-weight: 900;
