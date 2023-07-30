@@ -409,7 +409,7 @@ video {
   z-index: 10;
 }
 #footer {
-    height: 40vh;
+    height: 18vw;
     width: 100%;
     background: linear-gradient(to left bottom, #119f3a 0%, #a3d421 80%);
     position: relative;
@@ -426,7 +426,7 @@ video {
     z-index: 0;
   }
   #f1 img {
-    height: 100px;
+    height: 7.5vw;
   }
   #f1,
   #f2,
@@ -435,7 +435,6 @@ video {
     width: fit-content;
     position: relative;
     z-index: 99;
-    /* background-color: red; */
   }
   #f2 h3 {
     font-size: 1.6vw;
@@ -460,7 +459,7 @@ video {
     text-transform: uppercase;
     color: #000;
     font-weight: 600;
-    line-height: 20px;
+    line-height: 1.5vw;
     margin-bottom: 8px;
   }
   
