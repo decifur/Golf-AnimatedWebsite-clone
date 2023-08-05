@@ -5,7 +5,11 @@ This project is a clone of the website "[SIDCUPGOLF.COM](https://sidcupfamilygol
 ## Demo
 Check out the live demo of the cloned website here:
 
-https://github.com/decifur/Golf-AnimatedWebsite-clone/assets/90095692/03b47375-60a9-4417-b77e-d4b32ab21369
+
+
+https://github.com/decifur/Golf-AnimatedWebsite-clone/assets/90095692/0fa6c4cc-df59-4460-a053-176d528772a9
+
+
 
 ## Technologies Used
 The following technologies and tools were used to build this project:
