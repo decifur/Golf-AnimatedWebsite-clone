@@ -20,7 +20,7 @@ The following technologies and tools were used to build this project:
 
 ## Features
 
-* Responsive design to ensure compatibility across various devices and screen sizes. (WORKING ON IT)
+* Responsive design to ensure compatibility across various devices and screen sizes.
 * Interactive Pointer: Pointer follows your cursor all over the website.
 * Animated Links: Smooth pointer animations when hovering over clickable links.
 * Smooth Card Transitions: Cards animate gracefully on hover.
