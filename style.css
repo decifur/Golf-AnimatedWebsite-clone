@@ -35,6 +35,8 @@ body{
   background-color: rgb(150, 193, 30);
   border-radius: 50%;
   position: fixed;
+  top: -20px;
+  left: -20px;
   z-index: 99;
   transition: all cubic-bezier(0.075, 0.82, 0.165, 1) 2s;
   pointer-events: none;
